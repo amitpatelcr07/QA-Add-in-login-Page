@@ -1,0 +1,17 @@
+.question-card{
+    background-color: rgb(223, 239, 239);
+    margin: 20px;
+}
+.btn {
+    background: transparent;
+    border-color: transparent;
+    width: 2rem;
+    height: 2rem;
+    cursor: pointer;
+    
+  }
+
+  .container {
+    display: grid;
+    grid-template-columns: 1fr 1fr; /* Two equal columns */
+  }
